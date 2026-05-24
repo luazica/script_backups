@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-BASE="$HOME/script_backup"
+BASE="$HOME/script_backups"
 LIST="$BASE/list.txt"
 BACKUP_DIR="$BASE/backups"
 TMP_DIR="$BASE/tmp"
