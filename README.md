@@ -12,8 +12,8 @@ Um pequeno script de backup local e online de arquivos.
 Clone o repositório:
 
 ```bash
-git clone https://github/luazica/script_backup/
-cd script_backup
+git clone https://github/luazica/script_backups.git
+cd script_backups
 ```
 
 Dê permissão de exexução ao script:
